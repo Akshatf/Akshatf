@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Contribution Graph](https://github.com/Akshatf/Akshatf/blob/main/b157624e-ad51-46d9-be34-92b9c7f36b67.png?raw=true)
-
 # Hi there! I'm Akshat ✨
 
 ## 🚀 About Me
